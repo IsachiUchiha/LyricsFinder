@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="658.0" prefWidth="1015.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <TableView fx:id="table" editable="true" layoutX="19.0" layoutY="53.0" prefHeight="562.0" prefWidth="979.0">
+      </TableView>
+      <TextField fx:id="Artist" layoutX="19.0" layoutY="12.0" prefHeight="25.0" prefWidth="194.0" promptText="Artist" />
+      <TextField fx:id="title" layoutX="240.0" layoutY="13.0" prefHeight="25.0" prefWidth="307.0" promptText="Title" />
+      <Button fx:id="search" layoutX="567.0" layoutY="12.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="82.0" text="Search" />
+      <Button fx:id="next" layoutX="959.0" layoutY="624.0" mnemonicParsing="false" text="&gt;&gt;" />
+      <Button fx:id="button_no" layoutX="915.0" layoutY="624.0" mnemonicParsing="false" text="1" />
+      <Button fx:id="prev" layoutX="857.0" layoutY="624.0" mnemonicParsing="false" text="&lt;&lt;" />
+      <ProgressBar fx:id="progressbar" layoutX="791.0" layoutY="16.0" prefHeight="20.0" prefWidth="204.0" />
+   </children>
+</AnchorPane>
