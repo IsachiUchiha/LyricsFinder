@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LyricsParserGui:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LyricsParserGui_jar</output-path>
+    <root id="archive" name="LyricsParserGui.jar">
+      <element id="module-output" name="LyricsParserGui" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/LyricsParser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

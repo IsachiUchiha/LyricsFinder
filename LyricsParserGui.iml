@@ -10,7 +10,16 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../LyricsParser/out/artifacts/LyricsParser_jar/LyricsParser.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/LyricsParser.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/LrcParser/src/com/github/authorfu/lrcparser/lrcparser.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

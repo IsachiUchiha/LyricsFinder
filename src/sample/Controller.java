@@ -39,6 +39,7 @@ import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
 import java.security.NoSuchAlgorithmException;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.ResourceBundle;
 import java.util.logging.Logger;
@@ -323,10 +324,16 @@ public class Controller implements Initializable{
             con.setRequestMethod("GET");
             BufferedReader in = new BufferedReader(
                     new InputStreamReader(con.getInputStream()));
-            String inputLine;
-            while ((inputLine = in.readLine()) != null) {
-                response+=inputLine+"\n";
+//            String inputLine;
+            Lyric lyric=LrcParser.create(in);
+            ArrayList<Sentence> sentences=lyric.findAllSentences(-1, -1);
+            for (Sentence sentence:sentences){
+                response+=sentence.getContent()+"\n";
             }
+//            while ((inputLine = in.readLine()) != null) {
+//                response+=inputLine+"\n";
+//            }
+
         } catch (MalformedURLException e) {
             e.printStackTrace();
         } catch (ProtocolException e) {
@@ -356,6 +363,7 @@ public class Controller implements Initializable{
                 }
             }
         });
+
 
     }
 }
