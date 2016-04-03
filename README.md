@@ -26,9 +26,9 @@ ________
 ### Screenshots
 ________
 
-![]()
-![]()
-![]()
+![ss1](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:28.png)
+![ss2](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:58.png)
+![ss3](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:29:11.png)
 
 
 
