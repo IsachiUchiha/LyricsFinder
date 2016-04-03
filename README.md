@@ -8,9 +8,8 @@ This is a ***desktop*** application for finding lyrics based on artist and song 
 ### Features
 ___________
 
-* Shows a album to which lyric belong to.
-* Shows uploader as well as rating provided by users.
-* Shows number of downloads and  timelength of each lyric.
+* Shows uploader ,rating and no. of votes provided by users.
+* Shows album ,number of downloads and  timelength of each lyric.
 * You can view lyric in a separate window or can download it.
 
 
