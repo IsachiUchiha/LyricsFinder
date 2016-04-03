@@ -15,7 +15,8 @@ public class Lyric{
 	 * a list of Sentence which presents each line of LRC file
 	 */
 	private ArrayList<Sentence> sentences;
-	
+
+
 	public Lyric(Hashtable<String,String> tags,ArrayList<Sentence> sentences){
 		super();
 		this.tags=tags;

@@ -9,6 +9,12 @@ import javafx.stage.Stage;
 public class Main extends Application {
 
 
+    /**
+     * Used for creating stage
+     * @param primaryStage  Used for creating primary stage
+     * @throws Exception    Throws exception
+     */
+
     @Override
     public void start(Stage primaryStage) throws Exception{
 //        Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
@@ -21,6 +27,11 @@ public class Main extends Application {
 
     }
 
+
+    /**
+     * This is first method that is being called
+     * @param args used for providing arguments to main function
+     */
 
     public static void main(String[] args) {
         launch(args);
