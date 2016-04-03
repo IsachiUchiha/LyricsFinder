@@ -24,15 +24,12 @@ ________
 ```
 
 ### Screenshots
-________
+_________
 
-#ss1
 ![ss1](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:28.png)
----------
-#ss2
+-----------
 ![ss2](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:58.png)
----------
-#ss3
+-----------
 ![ss3](https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:29:11.png)
 <!--<img src="https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:28.png" width="800" height="800" alt="Smiley face1" align="middle"><br>-->
 <!--<img src="https://github.com/sacOO7/LyricsFinder/blob/master/Screenshots/Screenshot%20from%202016-04-03%2021:27:58.png" width="800" height="800" alt="Smiley face2" align="middle"><br>-->
