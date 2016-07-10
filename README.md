@@ -1,6 +1,6 @@
 # LyricsFinder 
 
-### Intoduction
+### Introduction
 -----------
 
 This is a ***desktop*** application for finding lyrics based on artist and song title .
