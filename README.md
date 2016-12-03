@@ -16,10 +16,10 @@ ___________
 ### How to use
 ________
 
+Download [jar dependency](https://github.com/sacOO7/LyricsFinder/blob/master/out/artifacts/LyricsParserGui_jar/LyricsParserGui.jar?raw=true)
+
 ```java
-    1.Download Project ,open terminal and  Go to directory named \out\artifacts\LyricsParserGui_jar
-    2.You can see file named LyricsParserGui.jar
-    3.Run command java -jar LyricsParserGui.jar in terminal.
+    Run command java -jar LyricsParserGui.jar
 ```
 
 ### Screenshots
